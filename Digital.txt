@@ -1,0 +1,1 @@
+Digitl signatures rely on asymmetric cryptography, also known as public-key cryptography. An asymmetric key consists of a public/private key pair. The private key is used to create a signature, and the corresponding public key is used to verify the signature.
